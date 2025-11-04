@@ -7,6 +7,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![CI](https://github.com/RichLewis007/tech-trends-harvester/actions/workflows/ci.yml/badge.svg)](https://github.com/RichLewis007/tech-trends-harvester/actions/workflows/ci.yml)
 
+New updates and sources coming soon!
+
 Desktop app that aggregates tech trends from 11+ sources to help you discover blog-worthy topics.
 
 **Find blog-worthy tech topics** from 11+ sources! Get smart, filtered insights into what developers are actually talking about, using, and searching for.
